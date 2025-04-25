@@ -1,0 +1,12 @@
+Task 2 Observations:
+- rental_cars.json:
+  - Structure: Array of objects.
+  - Fields: city (string, e.g., "shaleport"), title (string, e.g., "Al's Amphibious Automobiles").
+  - Entries: 6 (1 in shaleport, 3 in petalborough, 2 in rustburg).
+  - Purpose: Lists car rental providers by city.
+- hotels.json:
+  - Structure: Array of objects.
+  - Fields: city (string, e.g., "shaleport"), title (string, e.g., "Aquarius Landing").
+  - Entries: 9 (3 in shaleport, 2 in petalborough, 4 in rustburg).
+  - Purpose: Lists hotels by city.
+  - Note: Typo in "Gard[en Cottage" (missing bracket).
